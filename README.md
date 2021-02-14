@@ -1,1 +1,1 @@
-# pingyangtiaer.github.io
+Website for thedynamicpacifics.com
