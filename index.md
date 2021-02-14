@@ -213,7 +213,6 @@
 			<div class="col-md-3 widget">
 				<h3 class="widget-title">Contact</h3>
 				<div class="widget-body">
-					<p>+512 924 0286<br>
 						<a href="mailto:#">pingyang.whu@gmail.com</a><br>
 						<br>
 						 Austin, TX 78758
